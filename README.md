@@ -86,7 +86,7 @@
 ## 📫 Contact
 
 <p>
-  📧 Email: <a href="mailto:danieljosias693@gmail.com">sdanieljosias693@gmail.com</a><br>
+  📧 Email: <a href="mailto:danieljosias693@gmail.com">danieljosias693@gmail.com</a><br>
   💼 LinkedIn: <a href="#">Seu LinkedIn</a>
 </p>
 
@@ -101,8 +101,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mr-lorddev&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-lorddev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
