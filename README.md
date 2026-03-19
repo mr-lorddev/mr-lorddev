@@ -46,7 +46,7 @@
 ### ⚙️ Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,firebase,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,firebase,fastapi,docker,nginx" />
 </p>
 
 ### 🎮 Game Development
