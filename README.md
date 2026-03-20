@@ -87,7 +87,7 @@
 
 <p>
   📧 Email: <a href="mailto:danieljosias693@gmail.com">danieljosias693@gmail.com</a><br>
-  💼 LinkedIn: <a href="#">Seu LinkedIn</a>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/daniel-vemba">Daniel Vemba</a>
 </p>
 
 ---
